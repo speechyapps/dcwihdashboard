@@ -1,5 +1,5 @@
 global:
-    mode: dark
+    mode: light
 datasets:
     - uuid: hello
       content: >-
